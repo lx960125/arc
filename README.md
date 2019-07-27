@@ -21,17 +21,17 @@ Face Recognition System can implement face recognition.
    - **Image display mode**<br/>
      The processor recognizes the **Real-time image display**, then the image captured by the OV7670 camera is displayed in real time using the LCD display.
      
-      ![image](https://github.com/mk997630105/Master-Sign-Language/blob/master/Screenshots/Chinese-mode.gif)
+      ![image](https://github.com/lx960125/arc/blob/master/screenshot/lx.jpg)
    - **Recognition mode**<br/>
      The processor recognizes the **Recognition function**, then the voice module broadcasts the recognition result.
      
-      ![image](https://github.com/mk997630105/Master-Sign-Language/blob/master/Screenshots/English-mode.gif)
+      ![image](https://github.com/lx960125/arc/tree/master/project%20picture)
 ## System Architecture
    As shown in the figure below, the system consists of **three parts: input, master, and output**.
    - The **input** include oollecting image data.
    - The **master** is composed of an ARC processor. It mainly performs data processing, implementing CNN convolutional neural network algorithm, and recognizes and processes acquired images.
    - The **output** includes real-time display of the captured image and broadcast of the recognition result
-   ![image](https://github.com/mk997630105/Master-Sign-Language/blob/master/Screenshots/Architecture.PNG)
+   ![image](https://github.com/lx960125/arc/blob/master/project%20picture/architecture.jpg)
 # Hardware and Software Setup
 ## Required Hardware   
    - 1 DesignWare ARC EM Starter Kit(IotDK)
@@ -50,7 +50,7 @@ Face Recognition System can implement face recognition.
       - Connect **LCD display module** to **ARDUINO**(Using AD0~AD4 GPIO interface)
    2. Configure your IotDK with proper core configuration
    - IotDK connection
-   ![image](https://github.com/mk997630105/Master-Sign-Language/blob/master/Screenshots/connection.jpg)
+   ![image](https://github.com/lx960125/arc/blob/master/project%20picture/connection.png)
    
 # User Manual
 ## Before Running This Application
