@@ -34,7 +34,7 @@ Face Recognition System can implement face recognition.
    ![image](https://github.com/lx960125/arc/blob/master/project%20picture/architecture.jpg)
 # Hardware and Software Setup
 ## Required Hardware   
-   - 1 DesignWare ARC EM Starter Kit(IotDK)
+   - 1 DesignWare ARC Iot Development Kit(IotDK)
    - 1 Voice composite module(SYN6288)
    - 1 LCD display module(ILI9341)
    - 1 Acquisition image module(OV7670)
