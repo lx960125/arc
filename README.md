@@ -105,7 +105,7 @@ line 62: change
          CUR_CORE ?= arcem9d
          TOOLCHAIN ?= gnu
 ```
-   - The relative series of the root directory, here the path of the Makefile is .\embARC\example\emsk\ov7670/makefile:
+   - The relative series of the root directory, here the path of the Makefile is .\embarc_osp-master\example\baremetal\cnn/makefile:
 ```
          #
          # root dir of embARC
